@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2012\Projects\Compra2001\Compra2001\bin\Debug\Compra2001.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Compra2001\Compra2001\bin\Debug\Compra2001.exe
+c:\users\user\documents\visual studio 2012\Projects\Compra2001\Compra2001\bin\Debug\Compra2001.pdb
+c:\users\user\documents\visual studio 2012\Projects\Compra2001\Compra2001\bin\Debug\Compra2001.xml
+c:\users\user\documents\visual studio 2012\Projects\Compra2001\Compra2001\obj\Debug\Compra2001.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\Compra2001\Compra2001\obj\Debug\Compra2001.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Compra2001\Compra2001\obj\Debug\Compra2001.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Compra2001\Compra2001\obj\Debug\Compra2001.exe
+c:\users\user\documents\visual studio 2012\Projects\Compra2001\Compra2001\obj\Debug\Compra2001.xml
+c:\users\user\documents\visual studio 2012\Projects\Compra2001\Compra2001\obj\Debug\Compra2001.pdb
